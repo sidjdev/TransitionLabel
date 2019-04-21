@@ -6,7 +6,12 @@ TransitionLabel is a simple solution to show different texts in a same Label. It
 
 The easiest way to add `TransitionLabel` to your code is by adding a `UILabel` to your **Storyboard** and and changing it's class to `TransitionLabel`
 
-######Configurable properties
+You can also create a `TransitionLabel` through your code as-
+
+`
+let secondTransitionLabel = TransitionLabel(frame: CGRect(origin: position, size: size), labelValues: ["Set", "Of", "Values"], animationDuration: 1.0, shouldLoop: false)`
+
+###### Configurable properties
 `labelValues: [String?]`- An array of strings which will be sequentially displayed as your label text
 
 `shouldLoop: Bool`  (by default, set to true)- This allows the values set to labels repeat from the begining once 
@@ -14,10 +19,7 @@ The easiest way to add `TransitionLabel` to your code is by adding a `UILabel` t
 `animationDuration: Double` (by default, set to 3.0)- Tells the Label, how long a value should be shown
 
 
-You can also create a `TransitionLabel` through your code as-
 
-`
-let secondTransitionLabel = TransitionLabel(frame: CGRect(origin: position, size: size), labelValues: ["Set", "Of", "Values"], animationDuration: 1.0, shouldLoop: false)`
 
 ## Example
 
