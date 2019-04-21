@@ -1,9 +1,6 @@
 # TransitionLabel
 
-[![CI Status](https://img.shields.io/travis/Sidharth J Dev/TransitionLabel.svg?style=flat)](https://travis-ci.org/Sidharth J Dev/TransitionLabel)
-[![Version](https://img.shields.io/cocoapods/v/TransitionLabel.svg?style=flat)](https://cocoapods.org/pods/TransitionLabel)
-[![License](https://img.shields.io/cocoapods/l/TransitionLabel.svg?style=flat)](https://cocoapods.org/pods/TransitionLabel)
-[![Platform](https://img.shields.io/cocoapods/p/TransitionLabel.svg?style=flat)](https://cocoapods.org/pods/TransitionLabel)
+TransitionLabel is a simple solution to show different texts in a same Label. It is incredibly easy to implement and easy to modify. You can use Storyboard or insert the label and the values, manually.
 
 ## Example
 
