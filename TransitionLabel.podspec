@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/Sidharth J Dev/TransitionLabel'
+  s.homepage         = 'https://github.com/sidjdev/TransitionLabel.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Sidharth J Dev' => 'sid.j.dev@gmail.com' }
-  s.source           = { :git => 'https://github.com/Sidharth J Dev/TransitionLabel.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sidjdev/TransitionLabel.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

@@ -41,7 +41,7 @@
 		607FACE51AFB9204008FA782 /* TransitionLabel_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TransitionLabel_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		7D5719F46A30A15C1C03C212 /* TransitionLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TransitionLabel.podspec; path = ../TransitionLabel.podspec; sourceTree = "<group>"; };
+		7D5719F46A30A15C1C03C212 /* TransitionLabel.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TransitionLabel.podspec; path = ../TransitionLabel.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		87F8379CC695C06EC1CDAAD8 /* Pods-TransitionLabel_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TransitionLabel_Example.debug.xcconfig"; path = "Target Support Files/Pods-TransitionLabel_Example/Pods-TransitionLabel_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		D4E7BDBE360EE804885387E2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E4AA0E244F31527BA1F86638 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
