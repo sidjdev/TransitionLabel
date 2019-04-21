@@ -4,7 +4,7 @@ TransitionLabel is a simple solution to show different texts in a same Label. It
 
 ## How To Implement
 
-The easiest way to add `TransitionLabel` to your code is by adding a `UILabel` to your **Storyboard** and and changing it's class to `TransitionLabel`
+The easiest way to add `TransitionLabel` to your code is by adding a `UILabel` to your **Storyboard** and changing it's class to `TransitionLabel`
 
 You can also create a `TransitionLabel` through your code as-
 
