@@ -6,7 +6,7 @@ TransitionLabel is a simple solution to show different texts in a same Label. It
 
 The easiest way to add `TransitionLabel` to your code is by adding a `UILabel` to your **Storyboard** and and changing it's class to `TransitionLabel`
 
-###Configurable properties
+######Configurable properties
 `labelValues: [String?]`- An array of strings which will be sequentially displayed as your label text
 
 `shouldLoop: Bool`  (by default, set to true)- This allows the values set to labels repeat from the begining once 
