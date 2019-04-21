@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TransitionLabel'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of TransitionLabel.'
+  s.version          = '0.2.0'
+  s.summary          = 'A Label that can have many values.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+TransitionLabel is a simple solution to show differnt texts in a same Label. It is incredibly easy to implement and easy to modify. You can use Storyboard or insert the label and the values, manually
+DESC
 
   s.homepage         = 'https://github.com/sidjdev/TransitionLabel.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Sidharth J Dev' => 'sid.j.dev@gmail.com' }
-  s.source           = { :git => 'https://github.com/sidjdev/TransitionLabel.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sidjdev/TransitionLabel.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
