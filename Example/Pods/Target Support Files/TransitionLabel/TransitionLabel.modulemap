@@ -1,0 +1,6 @@
+framework module TransitionLabel {
+  umbrella header "TransitionLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

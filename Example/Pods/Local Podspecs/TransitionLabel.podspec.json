@@ -1,0 +1,22 @@
+{
+  "name": "TransitionLabel",
+  "version": "0.1.0",
+  "summary": "A short description of TransitionLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sidharth J Dev/TransitionLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sidharth J Dev": "sid.j.dev@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Sidharth J Dev/TransitionLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TransitionLabel/Classes/**/*"
+}

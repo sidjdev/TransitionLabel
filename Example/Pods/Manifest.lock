@@ -1,0 +1,16 @@
+PODS:
+  - TransitionLabel (0.1.0)
+
+DEPENDENCIES:
+  - TransitionLabel (from `../`)
+
+EXTERNAL SOURCES:
+  TransitionLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TransitionLabel: 8faacf4afc9f135f8565a1cf2dbc2d961ac8510f
+
+PODFILE CHECKSUM: 9bef0735df1f58fe04777d2f3d3fba5bc3f19c79
+
+COCOAPODS: 1.6.1
