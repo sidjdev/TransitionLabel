@@ -8,18 +8,18 @@ The easiest way to add `TransitionLabel` to your code is by adding a `UILabel` t
 
 You can also create a `TransitionLabel` through your code as-
 
-`
+```ruby
 let secondTransitionLabel = TransitionLabel(frame: CGRect(origin: position, size: size), labelValues: ["Set", "Of", "Values"], animationDuration: 1.0, shouldLoop: false)`
-
+```
 ###### Configurable properties
-`labelValues: [String?]`- An array of strings which will be sequentially displayed as your label text
+```ruby
+labelValues: [String?]- An array of strings which will be sequentially displayed as your label text
 
-`shouldLoop: Bool`  (by default, set to true)- This allows the values set to labels repeat from the begining once 
+shouldLoop: Bool  (by default, set to true)- This allows the values set to labels repeat from the begining once 
 
-`animationDuration: Double` (by default, set to 3.0)- Tells the Label, how long a value should be shown
+animationDuration: Double (by default, set to 3.0)- Tells the Label, how long a value should be shown
 
-
-
+```
 
 ## Example
 

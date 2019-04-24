@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TransitionLabel'
-  s.version          = '1.1.0'
+  s.version          = '1.1.1'
   s.summary          = 'A Label that can have many values.'
 
 # This description is used to generate tags and improve search results.
